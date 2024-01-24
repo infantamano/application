@@ -1,2 +1,3 @@
 this is fileA
 this is the changegit status
+this is the second change
